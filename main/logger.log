@@ -1,0 +1,95 @@
+2022-06-21 12:15:49,433 : INFO : test_login : Login Successful
+2022-06-21 12:15:58,083 : INFO : test_shop : Product search Successfull
+2022-06-21 12:15:58,117 : INFO : test_product : Faded Short Sleeve T-shirts
+2022-06-21 12:15:58,133 : INFO : test_product : New
+2022-06-21 12:15:58,133 : INFO : test_product : New
+2022-06-21 12:15:58,167 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:15:58,167 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:15:58,167 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:15:58,198 : INFO : test_product : $16.51
+2022-06-21 12:15:58,198 : INFO : test_product : $16.51
+2022-06-21 12:15:58,198 : INFO : test_product : $16.51
+2022-06-21 12:15:58,198 : INFO : test_product : $16.51
+2022-06-21 12:15:58,251 : INFO : test_product : Product added to cart
+2022-06-21 12:15:58,251 : INFO : test_product : Product added to cart
+2022-06-21 12:15:58,251 : INFO : test_product : Product added to cart
+2022-06-21 12:15:58,251 : INFO : test_product : Product added to cart
+2022-06-21 12:15:58,251 : INFO : test_product : Product added to cart
+2022-06-21 12:15:58,290 : INFO : test_cart : 
+2022-06-21 12:16:03,127 : INFO : test_signout : Sign Out Successfull
+2022-06-21 12:23:00,124 : INFO : test_login : Login Successful
+2022-06-21 12:23:05,304 : INFO : test_shop : Product search Successfull
+2022-06-21 12:23:05,344 : INFO : test_product : Faded Short Sleeve T-shirts
+2022-06-21 12:23:05,377 : INFO : test_product : New
+2022-06-21 12:23:05,377 : INFO : test_product : New
+2022-06-21 12:23:05,400 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:23:05,400 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:23:05,400 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:23:05,424 : INFO : test_product : $16.51
+2022-06-21 12:23:05,424 : INFO : test_product : $16.51
+2022-06-21 12:23:05,424 : INFO : test_product : $16.51
+2022-06-21 12:23:05,424 : INFO : test_product : $16.51
+2022-06-21 12:23:05,477 : INFO : test_product : Product added to cart
+2022-06-21 12:23:05,477 : INFO : test_product : Product added to cart
+2022-06-21 12:23:05,477 : INFO : test_product : Product added to cart
+2022-06-21 12:23:05,477 : INFO : test_product : Product added to cart
+2022-06-21 12:23:05,477 : INFO : test_product : Product added to cart
+2022-06-21 12:23:05,524 : INFO : test_cart : 
+2022-06-21 12:23:09,039 : INFO : test_signout : Sign Out Successfull
+2022-06-21 12:24:05,902 : INFO : test_login : Login Successful
+2022-06-21 12:24:10,565 : INFO : test_shop : Product search Successfull
+2022-06-21 12:24:10,605 : INFO : test_product : Faded Short Sleeve T-shirts
+2022-06-21 12:24:10,646 : INFO : test_product : New
+2022-06-21 12:24:10,646 : INFO : test_product : New
+2022-06-21 12:24:10,678 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:24:10,678 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:24:10,678 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 12:24:10,710 : INFO : test_product : $16.51
+2022-06-21 12:24:10,710 : INFO : test_product : $16.51
+2022-06-21 12:24:10,710 : INFO : test_product : $16.51
+2022-06-21 12:24:10,710 : INFO : test_product : $16.51
+2022-06-21 12:24:10,781 : INFO : test_product : Product added to cart
+2022-06-21 12:24:10,781 : INFO : test_product : Product added to cart
+2022-06-21 12:24:10,781 : INFO : test_product : Product added to cart
+2022-06-21 12:24:10,781 : INFO : test_product : Product added to cart
+2022-06-21 12:24:10,781 : INFO : test_product : Product added to cart
+2022-06-21 12:24:10,816 : INFO : test_cart : <selenium.webdriver.remote.webelement.WebElement (session="8890ec1a60071b89a09f2e273af91b65", element="e506de29-5fab-4917-8985-9c0ca8b16529")>
+2022-06-21 12:24:14,491 : INFO : test_signout : Sign Out Successfull
+2022-06-21 20:14:07,853 : INFO : test_login : Login Successful
+2022-06-21 20:14:14,900 : INFO : test_shop : Product search Successfull
+2022-06-21 20:14:14,941 : INFO : test_product : Faded Short Sleeve T-shirts
+2022-06-21 20:14:14,987 : INFO : test_product : New
+2022-06-21 20:14:14,987 : INFO : test_product : New
+2022-06-21 20:14:15,020 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:14:15,020 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:14:15,020 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:14:15,046 : INFO : test_product : $16.51
+2022-06-21 20:14:15,046 : INFO : test_product : $16.51
+2022-06-21 20:14:15,046 : INFO : test_product : $16.51
+2022-06-21 20:14:15,046 : INFO : test_product : $16.51
+2022-06-21 20:14:15,097 : INFO : test_product : Product added to cart
+2022-06-21 20:14:15,097 : INFO : test_product : Product added to cart
+2022-06-21 20:14:15,097 : INFO : test_product : Product added to cart
+2022-06-21 20:14:15,097 : INFO : test_product : Product added to cart
+2022-06-21 20:14:15,097 : INFO : test_product : Product added to cart
+2022-06-21 20:14:15,138 : INFO : test_cart : <selenium.webdriver.remote.webelement.WebElement (session="97fad236cfd47010b2789751eec82a9c", element="e58b9de2-841d-4787-9de3-c13e89453a29")>
+2022-06-21 20:14:26,521 : INFO : test_signout : Sign Out Successfull
+2022-06-21 20:18:16,502 : INFO : test_login : Login Successful
+2022-06-21 20:18:23,715 : INFO : test_shop : Product search Successfull
+2022-06-21 20:18:23,757 : INFO : test_product : Faded Short Sleeve T-shirts
+2022-06-21 20:18:23,791 : INFO : test_product : New
+2022-06-21 20:18:23,791 : INFO : test_product : New
+2022-06-21 20:18:23,822 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:18:23,822 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:18:23,822 : INFO : test_product : Faded short sleeve t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!
+2022-06-21 20:18:23,860 : INFO : test_product : $16.51
+2022-06-21 20:18:23,860 : INFO : test_product : $16.51
+2022-06-21 20:18:23,860 : INFO : test_product : $16.51
+2022-06-21 20:18:23,860 : INFO : test_product : $16.51
+2022-06-21 20:18:23,919 : INFO : test_product : Product added to cart
+2022-06-21 20:18:23,919 : INFO : test_product : Product added to cart
+2022-06-21 20:18:23,919 : INFO : test_product : Product added to cart
+2022-06-21 20:18:23,919 : INFO : test_product : Product added to cart
+2022-06-21 20:18:23,919 : INFO : test_product : Product added to cart
+2022-06-21 20:18:23,950 : INFO : test_cart : <selenium.webdriver.remote.webelement.WebElement (session="5059b7da937b479b2b53c163bf53f60f", element="984e8cda-3902-4a72-939b-3c7ff0d4438b")>
+2022-06-21 20:18:30,438 : INFO : test_signout : Sign Out Successfull
