@@ -1,9 +1,11 @@
 from selenium.webdriver.common.by import By
 
+from pageobject.basepage import BasePage
 
-class ProductPage:
+
+class ProductPage(BasePage):
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
 
     product_name = (By.CSS_SELECTOR, "h1[itemprop='name']")
     product_condition = (By.CSS_SELECTOR, "p[id='product_condition'] span")

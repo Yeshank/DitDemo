@@ -1,9 +1,11 @@
 from selenium.webdriver.common.by import By
 
+from pageobject.basepage import BasePage
 
-class ShopPage:
+
+class ShopPage(BasePage):
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
 
     search_input_field = (By.CSS_SELECTOR, "input[id='search_query_top']")
     submit_search_btn = (By.CSS_SELECTOR, "button[name='submit_search']")

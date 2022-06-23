@@ -1,9 +1,11 @@
 from selenium.webdriver.common.by import By
 
+from pageobject.basepage import BasePage
 
-class LoginPage:
+
+class LoginPage(BasePage):
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
 
     email_input_field = (By.CSS_SELECTOR, "input[id='email']")
     passwd_input_field  = (By.CSS_SELECTOR, "input[id='passwd']")

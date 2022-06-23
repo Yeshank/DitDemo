@@ -2,10 +2,12 @@
 
 from selenium.webdriver.common.by import By
 
+from pageobject.basepage import BasePage
 
-class CartPage:
+
+class CartPage(BasePage):
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
 
     success_text = (By.XPATH, "//*[@id='layer_cart']/div[1]/div[1]/h2")
     continue_shopping_btn = (By.CSS_SELECTOR, "span[class='continue btn btn-default button exclusive-medium']")

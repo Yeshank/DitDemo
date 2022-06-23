@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 
 
 @pytest.fixture(scope='class', autouse=True)
-def browser_invocation(request):
+def browser_invocation():
     # Chrome Browser Invocation
     s = Service("C:\chromedriver.exe")
     driver = Chrome(service=s)
@@ -14,8 +14,8 @@ def browser_invocation(request):
     driver.get('http://automationpractice.com/index.php')
 
     # assigning the driver to driver of Test_OrderAuto class
-    request.cls.driver = driver
-    yield
+    #request.cls.driver = driver
+    yield driver
     driver.close()
 
 
