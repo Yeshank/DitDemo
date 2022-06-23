@@ -3,7 +3,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.service import Service
 
 
-@pytest.fixture(scope='class')
+@pytest.fixture(scope='class', autouse=True)
 def browser_invocation(request):
     # Chrome Browser Invocation
     s = Service("C:\chromedriver.exe")

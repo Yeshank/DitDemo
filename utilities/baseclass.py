@@ -7,7 +7,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 import logging
 
-@pytest.mark.usefixtures('browser_invocation')
+
 class BaseClass:
 
 
